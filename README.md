@@ -1,7 +1,7 @@
 # Sensor Fusion: Camera-LiDAR Object Detection
 
 ## perçu du Projet
-Ce projet implémente un algorithme de fusion de capteurs pour la conduite autonome. Il permet de détecter des objets (voitures, piétons) et d'estimer leur distance réelle en mètres en projetant les données d'un scanner laser (LiDAR) sur les images d'une caméra.
+Mon projet implémente un algorithme de fusion de capteurs pour la conduite autonome. Il permet de détecter des objets (voitures, piétons) et d'estimer leur distance réelle en mètres en projetant les données d'un scanner laser (LiDAR) sur les images d'une caméra.
 
 ## Stack Technique
 - **Language :** Python
